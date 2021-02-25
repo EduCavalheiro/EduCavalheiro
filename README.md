@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**EduCavalheiro/EduCavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Desenvolvedor web, utilizando conhecimentos da stack LAMP (linux, apache, mysql e php), uso de frameworks como Laravel e VUE. 
 Escolhi programar pois nem só de jogos online e série vive o millennial. 
 Iniciei minha carreira como dev no começo de 2020, um ano que vai ficar marcado na história. Ultimamente tenho focado em projetos backend, mas sempre com alguma coisa do front para ser feito. 
@@ -22,8 +6,7 @@ Sou dedicado, esforçado e tenho me convencido a cada dia mais que sou capaz de 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCavalheiro&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCavalheiro&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EduCavalheiro)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EduCavalheiro&custom_title=Wakatime&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
