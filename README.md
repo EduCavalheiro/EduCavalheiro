@@ -8,5 +8,4 @@ Sou dedicado, esforçado e tenho me convencido a cada dia mais que sou capaz de 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCavalheiro&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EduCavalheiro&custom_title=Wakatime&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
