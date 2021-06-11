@@ -3,6 +3,7 @@ I am a Web developer with industry experience building websites and web applicat
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduCavalheiro&show_icons=true&theme=graywhite) 
+<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=educavalheiro)](https://github.com/EduCavalheiro/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduCavalheiro&layout=compact&theme=graywhite)](https://github.com/EduCavalheiro/github-readme-stats)
