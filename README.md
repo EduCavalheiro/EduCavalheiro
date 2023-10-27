@@ -10,21 +10,10 @@
     </a>
 </div>
 
-## YHellow!
-
-I don't really know how u got here, but I will try to show a little bit about myself for you.
-
-## Public information
-
-My name is Eduardo Cavalheiro. I'm a brazillian guy currently living in Porto - Portugal. 
-
-On my free time, I travel, practice some sports, like bike or running.Cooking is also a passion (my family and friends say I should join "Master Chef's").
-
-
 ## Detailed information
 
 * **Name**: Eduardo Cavalheiro
-* **Age**: 26
+* **Age**: 27
 * **Living in**: Porto - Porto, Portugal
 * **Stack**: PHP - Laravel - Bootstrap - SQL
 * **University**: Nope.
